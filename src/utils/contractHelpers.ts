@@ -6,6 +6,7 @@ import { PoolCategory } from 'config/constants/types'
 // Addresses
 import {
   getAddress,
+  getDogecoinswapAddress
   getPancakeProfileAddress,
   getPancakeRabbitsAddress,
   getBunnyFactoryAddress,
